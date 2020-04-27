@@ -1,0 +1,11 @@
+{
+    "TOKEN": "Bot Token",
+    "prefix": ";",
+    "member": "Role ID",
+    "arl": "Role ID",
+    "rl": "Role ID",
+    "officer": "Role ID",
+    "security": "Role ID",
+    "booster": "Role ID",
+    "vetRoleID": "Role ID"
+}

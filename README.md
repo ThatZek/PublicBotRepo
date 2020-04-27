@@ -1,1 +1,1 @@
-# PublicBotRepo
+CultsOnly
